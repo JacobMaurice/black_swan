@@ -1,0 +1,7 @@
+financial-corpus-distilbert/
+financial-data-to-dataframe/
+financial-news-dataset-master/
+financial_data.parquet.gzip
+results/
+sentiment_model_custom/
+sentiment_model_simple/
