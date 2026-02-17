@@ -26,7 +26,7 @@ Once we have a working sentiment classification model, we need to actually use i
 
 Considerations:
 - As the name describes, Financial PhraseBank contains uses labelled phrases as training data.
-- We could either use just the headlines of the articles (Pre-Crash_Headlines.csv) or the entire bodies of text.
+- We could either use just the headlines of the articles or the entire bodies of text.
    - I will likely use the headlines as they are more succinct and I have a larger sample size.
    - I may still use the bodies of the articles in the future for something else.
 
